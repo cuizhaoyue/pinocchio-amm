@@ -4,7 +4,7 @@
 
 ## 项目简介
 
-这是一个基于常数乘积曲线（Constant Product Curve）的 AMM 实现，使用 Pinocchio 框架以获得更高效的编译时间和更小的程序体积。该项目是 [Blueshift Pinocchio AMM 挑战](https://learn.blueshift.gg/zh-CN/challenges/pinocchio-amm)的实现。
+这是一个基于常数乘积曲线（Constant Product Curve）的 AMM 实现，使用 Pinocchio 框架以获得更高效的编译时间和更小的程序体积。
 
 ## 核心功能
 

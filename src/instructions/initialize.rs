@@ -53,7 +53,7 @@ impl<'a> TryFrom<&'a [AccountView]> for InitializeAccounts<'a> {
 
 /// initialize 指令数据。
 ///
-/// 与 Blueshift 挑战保持一致：
+/// 与既有指令编码格式保持一致：
 /// - authority 可选：若不传，则按 32 字节全 0 处理（不可变池）
 #[repr(C, packed)]
 pub struct InitializeInstructionData {
